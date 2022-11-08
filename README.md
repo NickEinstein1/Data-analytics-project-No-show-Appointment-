@@ -34,6 +34,7 @@ What factors are important for us to know in order to predict if a patient will 
 
 # Conclusions
 In the Introduction section we have state a question "What factors are important for us to know in order to predict if a patient will not show up for their scheduled appointment?". From the exploratory we did before, we can certain these variables may be a good predictor:
+
 . SMS Received
 . Age
 . Time Span
